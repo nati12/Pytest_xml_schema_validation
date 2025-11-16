@@ -1,7 +1,7 @@
 name: Python tests with pytest
 
 on:
-  worflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   tests:
