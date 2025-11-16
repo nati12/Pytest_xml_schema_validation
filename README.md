@@ -17,11 +17,11 @@ This repository has tests for validating multiple XMLs against XSD schema. The t
 
 ## 2. Test Plan:
 - Validating correct xmls against schema and encoding --> 2 tests passed
-- Validating incorrect xmls against schema and encoding --> 3 tests failed in which:
-  A. Structural Errors (missing required) elements, unexpected elements)
-  B. Datatype violations (wrong type)
-  C. Enumeration (invalid enum value)
-  D. Encoding ( should match to SO-8859-15)
+- Validating incorrect xmls against schema and encoding --> 3 tests failed in which:  
+  A. Structural Errors (missing required) elements, unexpected elements)  
+  B. Datatype violations (wrong type)  
+  C. Enumeration (invalid enum value)  
+  D. Encoding ( should match to SO-8859-15)  
   
 
 ## 3. Requierements:
