@@ -21,6 +21,4 @@ jobs:
         pip install -r requirements.txt
 
     - name: Run pytest
-      run: |
-      pytest -q
-      echo "Pytest finished with exit code $? but CI will pass."
+      run: pytest -q
