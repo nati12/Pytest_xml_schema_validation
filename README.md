@@ -26,8 +26,8 @@ This repository has tests for validating multiple XMLs against XSD schema.
 
 ## 3. Requierements:
 Packages in requirements file can be installed with:
-´pip install -r requierements.txt´
+`pip install -r requierements.txt`
 
 ## 4. Running the tests:
-´pytest -v´ (more details) or ´pytest -q´
+`pytest -v` (more details) or `pytest -q`
 
