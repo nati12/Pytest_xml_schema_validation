@@ -1,5 +1,5 @@
 # Payslip XML 2.0 schema validation with pytest
-This repository has tests for validating multiple XMLs against XSD schema.
+This repository has tests for validating multiple XMLs against XSD schema. The tests are written in Python. So in order to run them, you need to have it installed, see more https://www.python.org/downloads/.
 
 ## 1. Structure:
 ```
