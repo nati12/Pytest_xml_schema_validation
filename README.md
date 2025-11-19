@@ -21,7 +21,7 @@ This repository has tests for validating multiple XMLs against XSD schema. The t
   A. Structural Errors (missing required) elements, unexpected elements)  
   B. Datatype violations (wrong type)  
   C. Enumeration (invalid enum value)  
-  D. Encoding ( should match to SO-8859-15)  
+  D. Encoding (should match to SO-8859-15) and the validation that 1st row is `<?xml version="1.0" encoding="ISO-8859-15"?>`
   
 
 ## 3. Requierements:
